@@ -1,0 +1,7 @@
+# Default config:
+
+[API]
+    Mode = "debug"
+    ListenAddress = ":8080"
+    JWTScrect = "yKDf42ADdA"
+    DBURI = "root:1234@tcp(127.0.0.1:3306)/lotus?charset=utf8&clientFoundRows=true"
